@@ -28,7 +28,7 @@ public class Sat {
     }
 
     public void Ispisi() {
-        System.out.println(" sekunde: "+ sekunde);
+        System.out.println(sati + minute + sekunde);
     }
 
     public int getSati() {
